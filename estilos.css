@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(black, purple);
+  background: rgb(113, 82, 113);
   font-family: Arial, sans-serif;
   color: #222;
   margin: 0;
@@ -16,18 +16,17 @@ center {
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 28px;
   margin-bottom: 10px;
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 22px;
   margin: 10px 0;
 }
 
 h3 {
-  font-size: 16px;
-  color: gray;
+  font-size: 18px;
 }
 
 img {
