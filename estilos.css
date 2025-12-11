@@ -35,6 +35,13 @@ img {
   border-radius: 5px;
   margin-top: 10px;
 }
+#grafico{
+  width: 100%;
+  max-width: 1000px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
 
 button {
   background: purple;
